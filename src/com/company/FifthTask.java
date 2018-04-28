@@ -5,11 +5,11 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class FifthTask {
+    public class FifthTask {
     private int row = 0;
     private int count_row = 15;
     public  JPanel panel = new JPanel();
-    private JPanel tablePanel = new JPanel();
+    public JPanel tablePanel = new JPanel();
     private JTextField text5 = new JTextField();
     private JButton button5 = new JButton("Start");
     private JButton button6 = new JButton("1 >> 2");
